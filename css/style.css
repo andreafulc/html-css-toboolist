@@ -182,16 +182,16 @@ ul {
     display: inline-block;
     margin: 0 5px;
     text-align: center;
-    line-height: 17px;
+    line-height: 15px;
     font-size: smaller;
 }
 
 .green {
     color: #2cc6ab;
-    border: solid thin #2cc6ab;
+    border: 2px solid #2cc6ab;
 }
 
 .red {
     color: #ec4a9d;
-    border: solid thin #ec4a9d;
+    border: 2px solid #ec4a9d;
 }
