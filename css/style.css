@@ -7,6 +7,8 @@
     font-weight: 200;
 }
 
+/*  end  */
+
 body {
     background-color: #f6f8f9;
 }
@@ -170,6 +172,8 @@ ul {
     display: inline-block;
 
 }
+
+/* circle chech and cross */
 
 .circle {
     width: 17px;
