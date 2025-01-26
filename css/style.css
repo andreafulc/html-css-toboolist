@@ -165,3 +165,22 @@ ul {
 
 }
 
+.circle {
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0 5px;
+    text-align: center;
+    line-height: 17px;
+}
+
+.green {
+    color: #2cc6ab;
+    border: solid #2cc6ab;
+}
+
+.red {
+    color: #ec4a9d;
+    border: solid #ec4a9d;
+}
