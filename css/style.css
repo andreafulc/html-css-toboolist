@@ -3,7 +3,15 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
     background-color: #f6f8f9;
+}
+
+ul {
+    list-style: none;
 }
 
 /* header */
@@ -80,4 +88,80 @@
     border: 1px solid #bcbcbc;
 }
 
-/* 2 button end here */
+/* to do start here */
+
+.todo {
+    position: center;
+    display: block;
+    background-color: #ffffff;
+    margin: 5px auto;
+    padding: 8px 50px;
+    width: 60%;
+    height: auto;   
+}
+
+.list {
+    width: 100%;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background-color: #ffffff;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* tags and colors */
+
+.tag {
+    color: #ffffff;
+    display: line-block;
+    padding: 3px 10px;
+    border-radius: 30px;
+    font-size: smaller;
+    border: 1px solid #bcbcbc;
+    font-size: smaller;
+}
+
+.editorial {
+    background-color: #14aaf5;
+    color: #ffffff;
+    display: inline-block;
+
+}
+
+.goals {
+    background-color: #ab5de6;
+    color: #ffffff;
+    display: inline-block;
+}
+
+.recruiting {
+    background-color: #2cc6ab;
+    color: #ffffff;
+    display: inline-block;
+
+}
+
+.mobile {
+    background-color: #f5a623;
+    color: #ffffff;
+    display: inline-block;
+
+}
+
+.website {
+    background-color: #ec4a9d;
+    color: #ffffff;
+    display: inline-block;
+
+}
+
+.sales {
+    background-color: #a3d116;
+    color: #ffffff;
+    display: inline-block;
+
+}
+
