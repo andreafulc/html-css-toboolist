@@ -71,21 +71,20 @@ ul {
 
 /* buttons task and section */
 
-.task {
+.btn {
     padding: 3px 10px;
     display: inline;
     border-radius: 7px;
     font-size: smaller;
-    border: 1px solid #bcbcbc;
+}
+
+.task {
+    border: 1px solid #14aaf5;
     color: #000000;
     background-color: #14aaf5;
 }
 
 .sect {
-    padding: 3px 10px;
-    display: inline;
-    border-radius: 7px;
-    font-size: smaller;
     color: #000000;
     background-color: #ffffff;
     border: 1px solid #bcbcbc;
